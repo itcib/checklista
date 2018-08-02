@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+li {
+  background: lightgray;
+  margin: 5px;
+}
+.container{
+  display: grid;
+  justify-content: center;
+  padding: 20px;
+}
